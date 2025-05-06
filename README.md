@@ -87,7 +87,11 @@ mvn clean install
 - Verificação de redirecionamento de páginas
 ---
 
-
+<p align="center">
+  <img src="[https://github.com/user-repo/issues/attachments/...](https://private-user-images.githubusercontent.com/178955690/440883717-a268a691-b6d5-4bc0-ac1f-2e45df7a3e10.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NTEyNzIsIm5iZiI6MTc0NjU1MDk3MiwicGF0aCI6Ii8xNzg5NTU2OTAvNDQwODgzNzE3LWEyNjhhNjkxLWI2ZDUtNGJjMC1hYzFmLTJlNDVkZjdhM2UxMC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MDZUMTcwMjUyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTE3Mjg2NGViZTEwOGZkYmM3N2IxMzBmNzRlZmE1OGIzMzMyYTUwODUxZDhkMWY1ZDkyODMxMDI4ZmQ0NjhlOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.TxUvcKFmrnSrmv7WgGRPNVSnp2h1W4-FKi1e1PVg7Kc)" alt="Testes passando no console" width="800">
+  <br>
+  <em>Execução bem-sucedida dos testes automatizados</em>
+</p>
 
 
 
