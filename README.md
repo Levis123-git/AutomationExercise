@@ -88,7 +88,7 @@ mvn clean install
 ---
 
 <p align="center">
-  <img src="C:\Users\Levis\Videos\Capturas\Evidencia.jpeg" width="800">
+  <img src="[C:\Users\Levis\Videos\Capturas\Evidencia.jpeg](https://github.com/Levis123-git/AutomationExercise/issues/1#issue-3043468584)" width="800">
   <br>
   <em>Execução bem-sucedida dos testes automatizados</em>
 </p>
