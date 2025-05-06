@@ -87,6 +87,9 @@ mvn clean install
 - Verificação de redirecionamento de páginas
 ---
 
+![Texto alternativo](C:\Users\Levis\Downloads)
+
+
 ## 👤 Autor
 
 Desenvolvido por [Levis123-git](https://github.com/Levis123-git) com foco em aprendizado e prática de automação de testes.
