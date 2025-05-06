@@ -87,7 +87,7 @@ mvn clean install
 - Verificação de redirecionamento de páginas
 ---
 
-![Logo do projeto](C:\Users\Levis\Desktop\Arquivos LEvi\conteudo curso QA\Evidencia.jpeg)
+
 
 
 
